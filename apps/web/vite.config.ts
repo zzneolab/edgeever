@@ -155,9 +155,9 @@ export default defineConfig({
       includeAssets: [],
       includeManifestIcons: false,
       manifest: {
-        name: "EdgeEver",
-        short_name: "EdgeEver",
-        description: "EdgeEver：基于 Cloudflare 与 Docker 自托管的现代化开源笔记与 AI 个人知识库。",
+        name: "NeoNotes",
+        short_name: "NeoNotes",
+        description: "NeoNotes：基于 Cloudflare 与 Docker 自托管的现代化开源笔记与 AI 个人知识库。",
         start_url: "/",
         scope: "/",
         display: "standalone",
