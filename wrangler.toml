@@ -1,4 +1,4 @@
-name = "neonotes"
+name = "edgeever"
 main = ".wrangler/edgeever-worker/index.js"
 compatibility_date = "2026-06-26"
 workers_dev = true
