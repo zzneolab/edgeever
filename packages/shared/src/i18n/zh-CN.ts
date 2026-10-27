@@ -456,7 +456,7 @@ export const zhCN = {
     trace: "过程 · {{count}} 步",
   },
   common: {
-    appName: "NeoNotes",
+    appName: "EdgeEver",
     close: "关闭",
     cancel: "取消",
     save: "保存",
@@ -493,7 +493,7 @@ export const zhCN = {
     },
   },
   login: {
-    title: "登录 NeoNotes",
+    title: "登录 EdgeEver",
     subtitle: "你的自托管笔记工作区",
     username: "账号",
     password: "密码",
